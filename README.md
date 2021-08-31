@@ -1,5 +1,5 @@
 # CourseMe-The-E-Learning-Website
-A Web Application where Teachers can take online classes for students
+A Web Application developed with core php,html,css,Javascript,mysql where Teachers can take online classes for students
 
 
 <div align="center" float=""left>
@@ -35,8 +35,22 @@ Feel free to reach out to me! (❁´◡`❁)🤗<br/>
 #### How to Use??
 
 ###### --> First Download the zip file and Extract the files init.
-###### --> Once files are extracted open the project in any editor such as spyder, atom etc.
-###### --> Make sure that all the required packages and imports specified in the app.py file are installed.
-###### --> Run the app.py file and copy the port address and paste it in your browser.
-###### --> Now you could see the Magic.
-###### --> If you further wish to deploy it in the wideweb you can use Docker containers to compile and Microsoft Azure to publish.
+###### --> Install xampp or wamp servers for testing in local servers
+###### --> Copy the code files into the htdocs folder in your xampp server
+###### --> import the database files into your mysql server from localhost/phpmyadmin
+###### --> Once files are extracted open the project in any editor such as VScode, atom etc.
+###### --> Make sure that all the required file are installed.
+###### --> Run the index.py file by specifying port address as localhost/file_name
+###### --> Now you could see the Magic of the website displaying in the web
+###### --> If you further wish to deploy it in the wideweb you can use cpanel containers to compile and publish in www.
+
+
+### Sample Project pics from website for you !!!
+
+![sample1](https://user-images.githubusercontent.com/79846829/131507706-ca1151fd-d5bd-4c82-95e6-4135958069ec.png)
+![sample2](https://user-images.githubusercontent.com/79846829/131507752-1f4c6e06-551f-4f1c-81a3-68bc5478de35.png)
+![sample3](https://user-images.githubusercontent.com/79846829/131507777-f5ff19a3-f46b-4bf3-b238-9a093ba3d4e7.png)
+![sample4](https://user-images.githubusercontent.com/79846829/131507797-ef679604-0ffc-4ebb-8868-a5ba76845011.png)
+![sample5](https://user-images.githubusercontent.com/79846829/131507819-bc1359dd-688c-4dc4-81a1-d800f16d5490.png)
+![sample6](https://user-images.githubusercontent.com/79846829/131507841-30913661-f2c7-4cbc-8216-8da40bd0ab61.png)
+![sample7](https://user-images.githubusercontent.com/79846829/131507890-9fb06feb-029a-4580-9889-b33c203a0f51.png)
