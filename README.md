@@ -6,7 +6,9 @@ A Web Application where Teachers can take online classes for students
 
   <p float="left">
   <img height="60" src="https://img.icons8.com/color/344/php.png" />
-  <img height="60" src="https://img.icons8.com/color/344/javascript.png" /> 
+  <img height="60" src="https://img.icons8.com/color/344/javascript.png" />
+  <img height="60" src="https://img.icons8.com/color/344/html.png" />
+  <img height="60" src="https://img.icons8.com/color/344/css.png" />
   </p>
   <h1>The Ultimate Website where Teachers and Students can get the feel of Education Online</h1>
   
