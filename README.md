@@ -5,7 +5,7 @@ A Web Application where Teachers can take online classes for students
 <div align="center" float=""left>
 
   <p float="left">
-  <img height="60" src="https://img.icons8.com/color/344/python.png" />
+  <img height="60" src="https://img.icons8.com/color/344/php.png" />
   <img height="60" src="https://img.icons8.com/color/344/javascript.png" /> 
   </p>
   <h1>The Ultimate Website where Teachers and Students can get the feel of Education Online</h1>
@@ -28,3 +28,12 @@ Feel free to reach out to me! (❁´◡`❁)🤗<br/>
 | Feel free to fork and use it for your coding practices! 😃  I would _really_ appreciate a reference to this repo, These code snippets make one a better learner I believe 💪🏼 . Lets be a cohort of Awesome Coders and share the immortal knowledge forever🌏 Thank you and have fun!   |
 |---|
 
+
+#### How to Use??
+
+###### --> First Download the zip file and Extract the files init.
+###### --> Once files are extracted open the project in any editor such as spyder, atom etc.
+###### --> Make sure that all the required packages and imports specified in the app.py file are installed.
+###### --> Run the app.py file and copy the port address and paste it in your browser.
+###### --> Now you could see the Magic.
+###### --> If you further wish to deploy it in the wideweb you can use Docker containers to compile and Microsoft Azure to publish.
