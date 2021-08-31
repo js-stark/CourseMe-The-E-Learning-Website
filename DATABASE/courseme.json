@@ -1,0 +1,59 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"courseme"},
+{"type":"table","name":"about","database":"courseme","data":
+[
+{"a_id":"1","about":"This Website is designed for teachers to conduct online classes and assign students here."}
+]
+}
+,{"type":"table","name":"cat","database":"courseme","data":
+[
+{"cat_id":"1","cat_name":"Development","icon":"fas fa-code"},
+{"cat_id":"2","cat_name":"Web Design","icon":"fas fa-laptop"},
+{"cat_id":"3","cat_name":"Frontend","icon":"fas fa-crop"},
+{"cat_id":"4","cat_name":"Backend","icon":"fas fa-globe"},
+{"cat_id":"5","cat_name":"Javascript & PHP","icon":"fas fa-adjust"},
+{"cat_id":"7","cat_name":"Web Development","icon":"fas fa-bezier-curve"},
+{"cat_id":"8","cat_name":"Photoshop","icon":"fas fa-globe"},
+{"cat_id":"9","cat_name":"Andriod","icon":"fas fa-drafting-compass"},
+{"cat_id":"10","cat_name":"Backend","icon":"fas fa-database"}
+]
+}
+,{"type":"table","name":"contact","database":"courseme","data":
+[
+{"con_id":"1","email":"jsannauniv1112@gmail.com","add1":"No 7\/102, 7th Cross , Krishnanagar, Hosur - 635126, Tamilnadu","add2":"College Of Engineering Guindy, Anna University, Chennai-600025,Tamilnadu","yt":"Link for Youtube channel","fb":"Link for Facebook ","gp":"Link for Google Plus","tw":"Link for Twitter","link":"Link for LinkedIn","phn":"7708396877"}
+]
+}
+,{"type":"table","name":"faqs","database":"courseme","data":
+[
+{"q_id":"1","qsn":"Frontend ?","ans":"30hr Lectures are available"}
+]
+}
+,{"type":"table","name":"lang","database":"courseme","data":
+[
+{"lang_id":"1","lang_name":"french"},
+{"lang_id":"2","lang_name":"English"}
+]
+}
+,{"type":"table","name":"student","database":"courseme","data":
+[
+{"id":"4","full_name":"student","email":"student1@gmail.com","password":"f9a79fc18bb00832f9ef7766dc2b416f","photo":"279128853—Pngtree—white smoke floating elements_4158115.png","token":"f1f71e99bfb7f643265bfc54584f727d","status":"0"},
+{"id":"5","full_name":"admin","email":"admin123@gmail.com","password":"ecd00aa1acd325ba7575cb0f638b04a5","photo":"","token":"b90dcf4022da92ee5ce3cad5ad84f5c9","status":"0"},
+{"id":"6","full_name":"student2","email":"student2@gmail.com","password":"213ee683360d88249109c2f92789dbc3","photo":"","token":"ddb1c05f334b5cb5d25707d1e94ea030","status":"0"}
+]
+}
+,{"type":"table","name":"sub_cat","database":"courseme","data":
+[
+{"sub_cat_id":"1","sub_cat_name":"php","cat_id":"7"},
+{"sub_cat_id":"6","sub_cat_name":"Html","cat_id":"8"},
+{"sub_cat_id":"7","sub_cat_name":"Css","cat_id":"8"},
+{"sub_cat_id":"8","sub_cat_name":"MySql","cat_id":"10"}
+]
+}
+,{"type":"table","name":"term","database":"courseme","data":
+[
+{"t_id":"1","term":"Regarding Revenue Sharing from Courses","for_whom":"Student"},
+{"t_id":"2","term":"Regarding disputes","for_whom":"Teacher"}
+]
+}
+]
