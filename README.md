@@ -11,7 +11,7 @@ A Web Application where Teachers can take online classes for students
   <h1>The Ultimate Website where Teachers and Students can get the feel of Education Online</h1>
   
  ---
-  <span> This Repository contains all the code executions for this website which has both student Login and Admin Login. In future I'll hook in more features with advanced Artificial Intelligence Implementations<a href="https://www.instagram.com/jayasoruban1112/">Instagram</a> **stories**, which I'll also post here.
+  <span> This Repository contains all the code executions for this website which has both student Login and Admin Login. In future I'll hook in more features with advanced Artificial Intelligence Implementations in my <a href="https://www.instagram.com/jayasoruban1112/">Instagram</a> **stories**, which I'll also post here.
 	  
 ELearning, or electronic learning, is the delivery of learning and training through digital resources. Although eLearning is based on formalized learning, it is provided through electronic devices such as computers, tablets and even cellular phones that are connected to the internet. This makes it easy for users to learn anytime, anywhere, with few, if any, restrictions. Basically, eLearning is training, learning, or education delivered online through a computer or any other digital device.
 
